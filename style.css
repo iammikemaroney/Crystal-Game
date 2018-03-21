@@ -1,0 +1,13 @@
+body {
+    background-image: url("images/whitediamond.png");
+}
+
+#crystals {
+    margin: 15px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 72px;
+    color: #898989;
+}
