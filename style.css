@@ -12,3 +12,7 @@ h1 {
     font-size: 72px;
     color: #428dfc;
 }
+
+a:hover {
+  opacity: .9;
+}
